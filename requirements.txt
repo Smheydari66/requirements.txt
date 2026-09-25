@@ -1,5 +1,6 @@
 streamlit
 pandas
 openpyxl
+fpdf2
 reportlab
 matplotlib
