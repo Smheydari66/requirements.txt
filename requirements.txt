@@ -1,6 +1,8 @@
 streamlit
 pandas
 openpyxl
-fpdf2
 reportlab
+arabic-reshaper
+python-bidi
+fpdf2
 matplotlib
